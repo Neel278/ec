@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+html,body {
+	height: 100%;
+}
+input{
+	height: 30px;
+}
+
+html{
+	font-family:sans-serif;
+	background: linear-gradient(to right,#57c1eb 0%,#246fa8 100%);
+	font-size: 20px;
+}
+body {
+	display: grid;
+	place-items:center;
+}
